@@ -4,7 +4,7 @@ Currently I:
 - ✅ Resolve coding challenges on: <a href="https://checkio.org/"> checkio</a>, <a href="https://codingbat.com/java">codingbat</a>, <a href="https://www.codewars.com/">codewars</a>, 
 - 💬 Help <a href="https://stackoverflow.com/users/6807182/jacobtheknitter">Stackoverflow</a> community, while receving a lot of help (~49k people reached),
 - 🌱 <a href="https://eth.2miners.com/account/13jyesrqiAKk6dYAfvW6qy719jsKaV1h5y">Mine Ethereum</a>,
-- Learn <a href="https://www.duolingo.com/profile/Jacob_02"> Dutch 🇳🇱 </a> after learning and speaking fluently 🇩🇪, 🇪🇸, 🇬🇧,
+- Learn <a href="https://www.duolingo.com/profile/Jacob_02"> Dutch 🇳🇱 </a> after achieving fluency in 🇩🇪, 🇪🇸, 🇬🇧,
 - 📹 Recommend following YT channels: <br>
 <a href="https://www.youtube.com/c/NealWuProgramming">Neal Wu</a>,
 <a href="https://www.youtube.com/c/CodingGarden">Coding Garden</a>,
