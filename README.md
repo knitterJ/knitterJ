@@ -18,7 +18,7 @@ Currently I:
 
 - Dream about monetization 🪙 of the stuff that I personally create. The best example is: https://threejs-journey.com/. <br> Tangible outcomes count the most.   
 
-- Like the quote: ❠ Consistency and perseverance is one of the biggest factors to fulfillment in any sphere of life." (while taking into account sunk costs fallacy).
+- Like the quote ❠ Consistency and perseverance is one of the biggest factors to fulfillment in any sphere of life." (while taking into account sunk costs fallacy).
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
