@@ -6,16 +6,17 @@ Currently I:
 - 🌱 <a href="https://eth.2miners.com/account/13jyesrqiAKk6dYAfvW6qy719jsKaV1h5y">Mine Ethereum</a>,
 - Learn <a href="https://www.duolingo.com/profile/Jacob_02"> Dutch 🇳🇱 </a> after learning and speaking fluently 🇩🇪, 🇪🇸, 🇬🇧,
 - 📹 Recommend following YT channels: <br>
-<a href="url">Neal Wu</a>,
-<a href="url">Daniel Persson</a>, 
-<a href="url">Coding Garden</a>, 
-<a href="url">James Q Quick</a>, 
-<a href="url">Kadir Media</a>, 
-<a href="url">Coding in Public</a>, 
-<a href="url">OGLDEV</a>, 
-<a href="url">Random Code</a>,
+<a href="https://www.youtube.com/c/NealWuProgramming">Neal Wu</a>,
+<a href="https://www.youtube.com/c/CodingGarden">Coding Garden</a>,
+<a href="https://www.youtube.com/c/ippsec/">IppSec</a>,
+<a href="https://www.youtube.com/c/OGLDEV">OGLDEV</a>, 
+<a href="https://www.youtube.com/channel/UCyjEXAHK8xfRmlnkat2ympQ">Random Code</a>,
+<a href="https://www.youtube.com/c/CodinginPublic">Coding in Public</a>, 
+<a href="https://www.youtube.com/c/DanielPersson">Daniel Persson</a>, 
+<a href="https://www.youtube.com/c/JamesQQuick">James Q Quick</a>, 
+<a href="https://www.youtube.com/c/KadirMedia/">Kadir Media</a>, 
 
-- Dream about (decent) monetization 🪙 of the stuff that I personally create. The best example is: https://threejs-journey.com/. <br> Tangible outcomes count the most!
+- Dream about monetization 🪙 of the stuff that I personally create. The best example is: https://threejs-journey.com/. <br> Tangible outcomes count the most.   
 
 - Like the quote: ❠ Consistency and perseverance is one of the biggest factors to fulfillment in any sphere of life." (while taking into account sunk costs fallacy)
 
