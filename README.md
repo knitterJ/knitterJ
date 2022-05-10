@@ -20,7 +20,7 @@ Currently I:
 
 - Like the quote ❠ Consistency and perseverance is one of the biggest factors to fulfillment in any sphere of life." (while taking into account sunk costs fallacy).
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=knitterJ&color=green)
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
