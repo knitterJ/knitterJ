@@ -2,7 +2,7 @@
 Currently I: 
 - ⚡ Contribute to Git on every day basis, 
 - ✅ Resolve coding challenges on: <a href="https://checkio.org/"> checkio</a>, <a href="https://codingbat.com/java">codingbat</a>, <a href="https://www.codewars.com/">codewars</a>, 
-- 💬 Help <a href="https://stackoverflow.com/users/6807182/jacobtheknitter">Stackoverflow</a> community, while receving a lot of help (~51k people reached),
+- 💬 Help <a href="https://stackoverflow.com/users/6807182/jacobtheknitter">Stackoverflow</a> community, while receving a lot of help (~52k people reached),
 - 🌱 <a href="https://eth.2miners.com/account/0xA287802a99A61790a393587632Fe01531091C971">Mine Ethereum</a>,
 - Learn <a href="https://www.duolingo.com/profile/Jacob_02"> Dutch 🇳🇱 </a> after achieving fluency in 🇩🇪, 🇪🇸, 🇬🇧,
 - 📹 Recommend following YT channels: <br>
