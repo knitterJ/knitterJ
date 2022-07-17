@@ -8,7 +8,6 @@ Currently I:
 - 📹 Recommend following YT channels: <br>
 <a href="https://www.youtube.com/c/NealWuProgramming">Neal Wu</a>,
 <a href="https://www.youtube.com/c/CodingGarden">Coding Garden</a>,
-<a href="https://www.youtube.com/c/ippsec/">IppSec</a>,
 <a href="https://www.youtube.com/c/OGLDEV">OGLDEV</a>, 
 <a href="https://www.youtube.com/channel/UCyjEXAHK8xfRmlnkat2ympQ">Random Code</a>,
 <a href="https://www.youtube.com/c/CodinginPublic">Coding in Public</a>, 
