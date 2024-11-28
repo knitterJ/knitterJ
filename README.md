@@ -1,9 +1,11 @@
 
 Currently I: 
-- ⚡ Contribute to Git on every day basis, 
+- ⚡ Try to contribute to Git on a daily day basis,
+- Create a blog
+- Look for a job 
 - ✅ Resolve coding challenges on: <a href="https://checkio.org/"> checkio</a>, <a href="https://codingbat.com/java">codingbat</a>, <a href="https://www.codewars.com/">codewars</a>, 
 - 💬 Help <a href="https://stackoverflow.com/users/6807182/jacobtheknitter">Stackoverflow</a> community, while receving a lot of help (~1,8 million people reached),
-- Learn <a href="https://www.duolingo.com/profile/Jacob_02"> Dutch 🇳🇱 </a> after achieving fluency in 🇩🇪, 🇪🇸, 🇬🇧,
+- Learn <a href="https://www.duolingo.com/profile/Jacob_02"> Chinese 🇨🇳 </a> after achieving fluency in 🇳🇱, 🇩🇪, 🇪🇸, 🇬🇧,
 - 📹 Recommend following YT channels: <br>
 <a href="https://www.youtube.com/c/CodingGarden">Coding Garden</a>,
 <a href="https://www.youtube.com/c/JamesQQuick">James Q Quick</a>,
@@ -14,7 +16,7 @@ Currently I:
 <a href="https://www.youtube.com/c/DanielPersson">Daniel Persson</a>,  
 <a href="https://www.youtube.com/c/KadirMedia/">Kadir Media</a>, 
 
-- Dream about monetization 🪙 of the stuff that I personally create. The best example is: https://threejs-journey.com/. <br> Tangible outcomes count the most.   
+- Dream about monetization 🪙 of the digital products that I personally create. The best example is: https://threejs-journey.com/. <br> Tangible outcomes count the most.   
 
 - Like the quote ❠ Consistency and perseverance is one of the biggest factors to fulfillment in any sphere of life." (while taking into account sunk costs fallacy).
 
