@@ -1,8 +1,8 @@
 
 Currently I: 
 - ⚡ Try to contribute to Git on a daily day basis,
-- Create a blog
-- Look for a job 
+- Creating a blog
+- Looking for a job 
 - ✅ Resolve coding challenges on: <a href="https://checkio.org/"> checkio</a>, <a href="https://codingbat.com/java">codingbat</a>, <a href="https://www.codewars.com/">codewars</a>, 
 - 💬 Help <a href="https://stackoverflow.com/users/6807182/jacobtheknitter">Stackoverflow</a> community, while receving a lot of help (~1,8 million people reached),
 - Learn <a href="https://www.duolingo.com/profile/Jacob_02"> Chinese 🇨🇳 </a> after achieving fluency in 🇳🇱, 🇩🇪, 🇪🇸, 🇬🇧,
